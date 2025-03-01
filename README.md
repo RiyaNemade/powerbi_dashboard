@@ -47,7 +47,7 @@ Astoria: $30K
 Peak sales hours were between 10 AM to 2 PM, with high traffic recorded during weekdays.
 
 
-The SQL queries used in this analysis are contained in the provided PDF file  The queries extract insights such as:
+The SQL queries used in this analysis are contained in the provided PDF file -<a href = "https://github.com/RiyaNemade/powerbi_dashboard/blob/main/Coffee%20Shop%20Analysis.pdf">SQL File <a>  The queries extract insights such as:
 
 Monthly sales trends
 
