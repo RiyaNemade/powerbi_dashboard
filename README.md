@@ -46,9 +46,8 @@ Astoria: $30K
 
 Peak sales hours were between 10 AM to 2 PM, with high traffic recorded during weekdays.
 
-SQL Query File
 
-The SQL queries used in this analysis are contained in the provided PDF file Coffee Shop Analysis.pdf. The queries extract insights such as:
+The SQL queries used in this analysis are contained in the provided PDF file  The queries extract insights such as:
 
 Monthly sales trends
 
@@ -60,7 +59,7 @@ Product-based analysis
 
 Time-based sales trends
 
-Conclusion
+## Conclusion
 
 Sales are significantly higher during weekdays, suggesting a working population as the primary customer base.
 
