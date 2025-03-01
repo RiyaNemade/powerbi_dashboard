@@ -4,8 +4,6 @@
 
 This project analyzes the sales performance of a coffee shop, utilizing SQL queries and a Power BI dashboard to visualize key insights. The analysis focuses on total sales, total orders, total quantity sold, store-wise performance, and product-wise sales trends.
 
-## Dataset used
--<a href ="https://github.com/RiyaNemade/powerbi_dashboard/blob/main/Coffee%20Shop%20Sales%20(1).xlsx" coffee Shop Data <a>
 ## Data Insights
 
 1. Key Performance Indicators (KPIs):
